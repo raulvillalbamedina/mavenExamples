@@ -1,0 +1,12 @@
+	<distributionManagement>
+		<snapshotRepository>
+			<id>maven-snapshots</id>
+			<name>maven-snapshots</name>
+			<url>https://artifactoryorother/app-snapshot-local</url>
+		</snapshotRepository>
+		<repository>
+			<id>maven-releases</id>
+			<name>maven-releases</name>
+			<url>https://artifactoryorother/app-release-local</url>
+		</repository>
+	</distributionManagement>
